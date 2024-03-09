@@ -1,0 +1,15 @@
+.movie-section{
+    padding: 30px;
+    margin: 0;
+}
+.moviecard-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+
+}
+
+.movie-card{
+    background-color: aquamarine;
+}
